@@ -1,3 +1,3 @@
-function newEmployee(name,age)  {
-return {id: Date.now(), name, age }
+function a(name, age) {
+    return { id: Date.now(), name, age }
 }
